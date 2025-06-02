@@ -4,7 +4,7 @@ This code is made available to reproduce some of the simulations in the followin
 
 * Holmes-Cerfon, M. and Wyart, M., 2025. Hierarchical self-assembly for high-yield addressable complexity at fixed conditions.  [arXiv:2501.02611](https://arxiv.org/abs/2501.02611).
 
-The code simulates systems of sticky squares on a square lattice with "hierarchically" chosen interactions, using the Virtual Move Monte Carlo algorithm. The code is adapted from the code in [http://vmmc.xyz/](http://vmmc.xyz/), by adding the class `StickySquares` and by suitably modifying the source code to handle particles on a lattice.
+The code simulates systems of sticky squares on a square lattice with "hierarchically" chosen interactions, using the Virtual Move Monte Carlo algorithm. The code is adapted from the code in [http://vmmc.xyz/](http://vmmc.xyz/), by adding the  `StickySquares` class and by suitably modifying the source code to handle particles on a lattice.
 
 
 ## Running the code
