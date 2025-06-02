@@ -9,7 +9,7 @@ The code simulates systems of sticky squares on a square lattice with "hierarchi
 
 ## Running the code
 
-* Make sure you have a c++ compiler installed. Change the corresponding line in the makefile to the name of your compiler (right now it is set up for `gcc`).
+* Make sure you have a c++ compiler installed. Change the corresponding line in the makefile to the name of your compiler (right now it is set up for `g++`).
 * Create a sub-directory called `obj`. This is where the compiled source code is stored.
 * Type `make`, to compile the code.
   - currently `make` is set up to compile `run_hier.cpp`. You can change the comment in the makefile to compile the other driver file.
